@@ -180,21 +180,21 @@ I'm continuously working to strengthen my software development foundation and bu
 
 <div align="center">
 
-### GitHub Stats
+### 👤 Profile Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TS-gitaccount&show_icons=true&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TS-gitaccount&theme=tokyonight)
 
-### Most Used Languages
+### 💻 Languages by Repository
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TS-gitaccount&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TS-gitaccount&theme=tokyonight" width="49%" alt="Languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TS-gitaccount&theme=tokyonight" width="49%" alt="Most committed languages" />
 
-### Contribution Streak
+### 📈 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TS-gitaccount&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TS-gitaccount&theme=tokyonight" width="49%" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TS-gitaccount&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive time" />
 
 </div>
-
----
 
 ## 🤝 Connect With Me
 
